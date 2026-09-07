@@ -1,0 +1,18 @@
+emailIdp:
+  - login:
+  - startRegistration:
+  - verifyRegistrationCode:
+  - finishRegistration:
+  - startPasswordReset:
+  - verifyPasswordResetCode:
+  - finishPasswordReset:
+  - hasAccount:
+jwtRefresh:
+  - refreshAccessToken:
+sync:
+  - pushConfig:
+  - getConfig:
+  - pushAppList:
+  - getChildAppList:
+greeting:
+  - hello:

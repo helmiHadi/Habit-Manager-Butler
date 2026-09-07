@@ -1,0 +1,4 @@
+class: SyncPayload
+fields:
+  pairingCode: String
+  data: String
