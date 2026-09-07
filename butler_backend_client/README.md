@@ -1,4 +1,4 @@
-readme_content = """# Butler 🛡️
+**Butler 🛡️**
 
 **Butler** is a cross-platform digital well-being and productivity management application designed to help users gain control over their digital habits, monitor screen time, block distracting applications, and foster healthier daily routines.
 
